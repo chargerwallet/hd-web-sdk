@@ -1,0 +1,1 @@
+{"version":3,"file":"bridge-config.d.ts","sourceRoot":"","sources":["../../src/iframe/bridge-config.ts"],"names":[],"mappings":"AAAA,QAAA,MAAM,MAAM,EAAE;IACZ,UAAU,EAAE,MAAM,CAAC;IACnB,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,eAAe,CAAC;CAMxB,CAAC;AAEF,eAAe,MAAM,CAAC"}
